@@ -1,4 +1,4 @@
-# **Analysis of Global COVID_19 Data from 2020-2022**
+# **Analysis of Global COVID_19 Data**
 
 ## **Created October 18, 2022**
 
