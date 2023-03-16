@@ -1,7 +1,25 @@
-# COVID_Portfolio_Project
+# **Analysis of Global COVID_19 Data from 2020-2022**
 
-This portfolio project is titled: Covid_Portfolio_Project and it contains an end to end data analysis project on current COVID19 statistics showcasing exploration and data cleaning with Microsoft SQL Server as well as data visualization with Tableau. The raw data used for this project was gotten from: https://ourworldindata.org/covid-deaths
+## **Created October 18, 2022**
 
-The SQL file titled: covid_data_queries contains all the queries that were used in obtaining and analyzing our cleaned data in Microsoft SQL Server.
+## **Project Description**
 
-The Tableau file titled: tableau project covid is the visualization of result of our SQL queries. It can also be found at this link here: https://public.tableau.com/app/profile/chidubem.ngini/viz/COVIDDashboard_16661411415150/Dashboard1?publish=yes
+This project is an end to end data analysis of COVID19 statistics from 2020 to 2022. The main aim of this project is divided into two parts:  
+
+* showcase exploration and data cleaning with SQL in Microsoft SQL Server
+
+* Visualize clean and transformed data with Tableau. 
+
+## **Data Source**
+
+The raw data used for this project was gotten from [our world in data](https://ourworldindata.org/covid-deaths)
+
+## **Table of Contents**
+
+This repository contains the following: 
+
+* An [SQL file](https://github.com/deengini/COVID_Portfolio_Project/blob/main/SQL_Covid_Query.sql) which contains all the queries that were used in obtaining and analyzing our cleaned data in Microsoft SQL Server.
+
+* A [Tableau dashboard](https://github.com/deengini/COVID_Portfolio_Project/blob/main/Tableau%20Project%20COVID.jpg) which is the visualization of the result of our SQL queries. 
+
+This visualization can be found [here](https://public.tableau.com/app/profile/chidubem.ngini/viz/COVIDDashboard_16661411415150/Dashboard1?publish=yes)
